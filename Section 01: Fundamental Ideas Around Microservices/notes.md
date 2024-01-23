@@ -21,7 +21,7 @@ A monolithic system typically encapsulates:
 #### Microservice Architecture:
 In contrast, a microservice is designed to handle a singular or a small set of functionalities within an application. Each microservice is self-contained and operates a specific feature, contributing to the overall application.
 
-![Microservice Architecture](https://gyazo.com/9b1c406ba243b61a78b4626783deede7)
+![Microservice Architecture](https://i.gyazo.com/9b1c406ba243b61a78b4626783deede7.png)
 
 Key Advantage:
 - **Resilience:** The microservice architecture enhances application resilience. Specific features remain operational even if an individual service encounters issues.
@@ -42,7 +42,7 @@ Microservices approach data management uniquely, optimizing service-to-service i
 - Database schemas may evolve without impacting other services.
 - Services can utilize different database types (SQL, NoSQL) based on their specific requirements.
 
-![Database-Per-Service Model](https://gyazo.com/3c71a440122ebfab7ec1da5d382a634a)
+![Database-Per-Service Model](https://i.gyazo.com/3c71a440122ebfab7ec1da5d382a634a.png)
 
 **Drawback of Shared Databases:**
 - Shared databases limit scalability as they need to be scaled for all services collectively.
