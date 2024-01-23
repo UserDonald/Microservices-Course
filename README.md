@@ -6,7 +6,7 @@ Welcome to the 'Microservices with NodeJS and React' cheat sheet! This repositor
 
 Microservices are a software architecture style that structures an application as a collection of loosely coupled services. Each service in a microservices architecture is a self-contained unit with a specific business goal, and communicates with other services through well-defined APIs.
 
-### 🔑 Key Characteristics of Microservices:
+### Key Characteristics of Microservices:
 
 - **Independence:** Each microservice can be developed, deployed, operated, and scaled without affecting the functioning of other services.
 - **Specialization:** Every service is designed for a set of specific tasks and can be developed in any programming language that fits the task best.
